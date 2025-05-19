@@ -1,3 +1,5 @@
+![Screenshot 2025-05-19 121213](https://github.com/user-attachments/assets/4806cfe4-8c63-47a7-93f0-25a0d6438602)
+
 #Penjelasan Aplikasi Manajemen Barang
 1. Tampilan
 Tampilan UI memiliki elemen-elemen berikut:
